@@ -31,7 +31,7 @@ Expliquez comment configurer l'environnement de votre application. Par exemple, 
 
 ## Utilisation
 
-Pour démarrer l'application, ouvrez `localhost/NomDuDepot` dans votre navigateur.
+Pour démarrer l'application, ouvrez `localhost/TODO` dans votre navigateur.
 
 ## Contribution
 
