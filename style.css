@@ -1,0 +1,99 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar a, .navbar span {
+    color: white;
+    text-decoration: none;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+input[type=text], input[type=password], input[type=submit] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+input[type=submit] {
+    background-color: #5c79b8;
+    color: white;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: rgb(76, 91, 174);
+}
+
+
+
+.error {
+    color: red;
+}
+
+.tache {
+    background: #e9e9e9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.tache p {
+    margin: 0;
+}
+
+.tache a {
+    color: #5c79b8;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.tache a {
+    color: #5c79b8; 
+    margin-right: 10px;
+}
+
+.tache a:hover {
+    color: #4cae4c; 
+}
+
+
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
